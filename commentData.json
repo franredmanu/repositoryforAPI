@@ -1,0 +1,13 @@
+[
+	{ "id": 1, "userId": 1, "postId": 1, "content": "asfkndklgnadg" },
+	{ "id": 2, "userId": 3, "postId": 2, "content": "qwenklbasdna" },
+	{ "id": 11, "userId": 3, "postId": 4, "content": "sdasd" },
+	{ "id": 3, "userId": 4, "postId": 3, "content": "dkanblknalkbn" },
+	{ "id": 4, "userId": 7, "postId": 4, "content": "adnasd;bnasdb" },
+	{ "id": 5, "userId": 8, "postId": 5, "content": "nklasdbiqnqw" },
+	{ "id": 6, "userId": 9, "postId": 6, "content": "kansdlknainwok" },
+	{ "id": 7, "userId": 2, "postId": 7, "content": "gakqionqwbqjjq" },
+	{ "id": 8, "userId": 2, "postId": 8, "content": "asdlkgnnqwrnng" },
+	{ "id": 9, "userId": 5, "postId": 9, "content": "kgnawionwjknwksn" },
+	{ "id": 10, "userId": 3, "postId": 10, "content": "fakdsnfadkfnwi" }
+]

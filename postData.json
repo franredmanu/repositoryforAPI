@@ -1,0 +1,94 @@
+[
+	{
+		"id": 1,
+		"userId": 1,
+		"title": "Sports",
+		"content": "Text 1",
+		"datePosted": "2017-11-23",
+		"upvoteCount": 1,
+		"downvoteCount": 5
+	},
+	{
+		"id": 2,
+		"userId": 5,
+		"title": "Sports",
+		"content": "Text 1",
+		"datePosted": "2018-12-24",
+		"upvoteCount": 3,
+		"downvoteCount": 2
+	},
+	{
+		"id": 3,
+		"userId": 4,
+		"title": "Sports",
+		"content": "Text 1",
+		"datePosted": "2024-01-01",
+		"upvoteCount": 99,
+		"downvoteCount": 5
+	},
+	{
+		"id": 4,
+		"userId": 2,
+		"title": "Sports",
+		"content": "Text 1",
+		"datePosted": "2023-05-04",
+		"upvoteCount": 132,
+		"downvoteCount": 524
+	},
+	{
+		"id": 5,
+		"userId": 6,
+		"title": "Sports",
+		"content": "Text 1",
+		"datePosted": "2019-07-07",
+		"upvoteCount": 11,
+		"downvoteCount": 1023
+		
+	},
+	{
+		"id": 6,
+		"userId": 8,
+		"title": "Sports",
+		"content": "Text 1",
+		"datePosted": "1967-07-21",
+		"upvoteCount": 1992,
+		"downvoteCount": 52
+	},
+	{
+		"id": 7,
+		"userId": 9,
+		"title": "Sports",
+		"content": "Text 1",
+		"datePosted": "2020-21-02",
+		"upvoteCount": 231,
+		"downvoteCount": 51
+	},
+	{
+		"id": 8,
+		"userId": 2,
+		"title": "Sports",
+		"content": "Text 1",
+		"datePosted": "2023-06-06",
+		"upvoteCount": 199,
+		"downvoteCount": 52
+	},
+	{
+		"id": 9,
+		"userId": 4,
+		"title": "Sports",
+		"content": "Text 1",
+		"datePosted": "2021-05-07",
+		"upvoteCount": 1231,
+		"downvoteCount": 2325
+	},
+	{
+		"id": 10,
+		"userId": 5,
+		"title": "Sports",
+		"content": "Text 1",
+		"datePosted": "2022-02-02",
+		"upvoteCount": 231,
+		"downvoteCount": 425
+	}
+
+]
